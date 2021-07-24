@@ -33,6 +33,10 @@ print('''
 phone = input('Nomre (+994,+7): ')
 print('============')
 
+if phone == " ":
+    print("Siz proqramdan cixdiniz !")
+    exit()
+
 try:
         attack_number_phone.phone(phone)
 except:
