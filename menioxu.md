@@ -1,0 +1,4 @@
+# Aev-sms
+AEV-SMS ANTİNİN TERMUX VERSİONUDUR.
+
+
