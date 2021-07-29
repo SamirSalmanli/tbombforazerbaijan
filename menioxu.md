@@ -1,4 +1,1 @@
-# Aev-sms
-AEV-SMS ANTİNİN TERMUX VERSİONUDUR.
-
-
+Bu Anti SMS in TErmux VerSIounudur !
